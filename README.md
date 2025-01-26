@@ -1,5 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/cZnpr7Ns)
-# E4040 2024 Fall Project
+# Reimplementation of the paper “Deep Clustering for Unsupervised Learning of Visual Features”
 ## Deep Cluster
 This code implements the unsupervised training of convolutional neural networks, as described in the report [E4040.2024Fall.SZQA.report.zs2699.yq2411.jz3849].
 
